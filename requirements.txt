@@ -1,4 +1,4 @@
-flask==1.1.1
+flask==2.3.2
 eikon==1.1.2
 nltk==3.4.5
 numpy==1.18.1
